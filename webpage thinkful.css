@@ -1,0 +1,41 @@
+body /*background color for webpage went with a rustic them*/
+{
+  background-color: burlywood;
+}
+
+h1/*styling for main header*/
+ {
+  color: black;
+  text-align: center;
+  font-size:24px;
+}
+
+h2
+{
+    color:black;
+    font-size: 12px;
+
+}
+h3/* styling for sub headers made font smaller then main header for aesthitic reasons */
+{
+    color: black;
+    font-size: 10px;
+
+}
+p/*adjusting the font for the body of the webpage*/
+{
+  font-family: verdana;
+  font-size: 10px;
+}
+h4/* font style for the header inside the footer*/
+{
+    font-size: 6px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+div/*styling for image*/
+{
+    padding: 10%;
+    height: 50%;
+
+}
